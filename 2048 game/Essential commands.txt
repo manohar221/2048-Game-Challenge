@@ -1,0 +1,21 @@
+By creating this popular game we will learn the following javaScript Methods:
+- querySelector()
+- getElementById()
+- createElement()
+- appendChild()
+- push()
+- Math.floor()
+- Math.random()
+- length
+- innerHTML
+- parseInt()
+- filter()
+- Array()
+- fill()
+- concat()
+- keyCode
+- addEventListener()
+- removeEventListener()
+- setTimeout()
+- clearInterval()
+- setInterval()
